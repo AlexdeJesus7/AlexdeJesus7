@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alex 😁
+## Olá, Eu sou Alex de Jesus 😁
 
  <div>
    <a href="https://github.com/AlexdeJesus7
@@ -15,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Tecnologias que eu uso no meu dia
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -24,3 +24,5 @@
   <a href = "mailto:jefocusempresarial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-de-jesus-48a43291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+Apaixonado por Tecnologia e aprendendo sempre!!!
