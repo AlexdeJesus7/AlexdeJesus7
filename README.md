@@ -2,7 +2,7 @@
 
 I am a dev passionate about technology! 
 
-This is the space where I spend most of my time where, imagination and creativity become code.
+This is the space where I spend most of my time, where imagination and creativity become code.
 
  
   <div>
