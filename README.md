@@ -2,7 +2,7 @@
 
 🎯 Quality Assurance | Manual & Exploratory Testing | QA in Career Transition
 
-I am a QA professional in transition, focused on building solid experience in software quality through real-world testing projects, professional documentation, and continuous learning.
+Quality Assurance professional focused on manual and exploratory testing, with hands-on experience in real production systems, strong test documentation practices, and continuous learning towards test automation.
 
 ---
 
